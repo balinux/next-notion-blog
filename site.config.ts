@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'yhotie blog',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'yhotie.vercel.app',
   author: 'Yho Tie',
 
   // open graph metadata (optional)
